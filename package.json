@@ -1,0 +1,28 @@
+{
+  "name": "jackie",
+  "version": "1.0.0",
+  "description": "Test API for tarantino",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meet-tarantino/jackie.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meet-tarantino/jackie/issues"
+  },
+  "homepage": "https://github.com/meet-tarantino/jackie#readme",
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "body-parser": "^1.15.2",
+    "bunyan": "^1.8.1",
+    "express": "^4.14.0",
+    "express-bunyan-logger": "^1.3.0",
+    "mongodb": "^2.2.2",
+    "rc": "^1.1.6"
+  }
+}
